@@ -14,5 +14,6 @@
 - [控制流和可迭代对象](https://github.com/Paitalyi/Learn-Python-in-Y-minutes-ZH/blob/main/3.%E6%8E%A7%E5%88%B6%E6%B5%81%E5%92%8C%E5%8F%AF%E8%BF%AD%E4%BB%A3%E5%AF%B9%E8%B1%A1.md)
 - [函数](https://github.com/Paitalyi/Learn-Python-in-Y-minutes-ZH/blob/main/4.%E5%87%BD%E6%95%B0.md)
 - [模块](https://github.com/Paitalyi/Learn-Python-in-Y-minutes-ZH/blob/main/5.%E6%A8%A1%E5%9D%97.md)
-- 待施工🚧
+- [类](https://github.com/Paitalyi/Learn-Python-in-Y-minutes-ZH/blob/main/6.%E7%B1%BB.md)
+- [生成器和装饰器](https://github.com/Paitalyi/Learn-Python-in-Y-minutes-ZH/blob/main/7.%E7%94%9F%E6%88%90%E5%99%A8%E5%92%8C%E8%A3%85%E9%A5%B0%E5%99%A8.md)
 
